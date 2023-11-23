@@ -1,0 +1,5 @@
+Ann - 50
+Ben - 40
+Cid - 30
+Dan - 20
+Erl - 10
